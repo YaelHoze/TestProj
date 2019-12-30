@@ -16,6 +16,8 @@
 **
 **********
 
+
+
 Thank you for downloading WebGoat!
 
 This program is a demonstration of common server-side
